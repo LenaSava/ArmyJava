@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e167bf6-4656-48a5-99a1-01b912bf8d82" name="Default Changelist" comment="first stems to porting from c++ Army to java Army">
+    <list default="true" id="4e167bf6-4656-48a5-99a1-01b912bf8d82" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ability.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ability.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Ability.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="122">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="e#79#80#0" expanded="true" />
                 <element signature="e#109#110#0" expanded="true" />
@@ -136,8 +135,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
-    <option name="y" value="40" />
+    <option name="x" value="24" />
+    <option name="y" value="125" />
     <option name="width" value="1399" />
     <option name="height" value="590" />
   </component>
@@ -169,7 +168,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="changes&#9;ACTION&#9;Vcs.Show.Local.Changes" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541532108127" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541532696609" />
     <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
   </component>
   <component name="RunDashboard">
@@ -216,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541523753282</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first stems to porting from c++ Army to java Army">
+      <created>1541532360497</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541532360497</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -247,9 +253,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32874617" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49963155" visible="true" weight="0.4526316" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003685" side_tool="true" visible="true" weight="0.4526316" />
-      <window_info anchor="bottom" content_ui="combo" id="Version Control" order="9" sideWeight="0.49963155" weight="0.32874617" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49889463" visible="true" weight="0.4526316" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50110537" side_tool="true" visible="true" weight="0.4526316" />
+      <window_info anchor="bottom" content_ui="combo" id="Version Control" order="9" sideWeight="0.49889463" weight="0.32842106" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -328,8 +334,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ability.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="122">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="e#79#80#0" expanded="true" />
             <element signature="e#109#110#0" expanded="true" />
